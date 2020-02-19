@@ -169,3 +169,20 @@ body {
   word-spacing: 0.5rem;
 }
 /* end of services */
+
+/* footer */
+.footer-title {
+  background: var(--mainBlack);
+}
+.footer-contact {
+  background: var(--mainGrey);
+}
+.footer-icon {
+  font-size: 1.5rem;
+  color: var(--mainWhite);
+  transition: all 0.4s ease-in-out;
+}
+.footer-icon:hover {
+  color: var(--mainPink);
+}
+/* end of footer */
